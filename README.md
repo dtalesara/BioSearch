@@ -1,6 +1,4 @@
-Here’s a clean, GitHub-ready **BioSearch README** based on everything you’ve built so far, written so it clearly explains the system, phases, and scientific intent without overclaiming.
 
----
 
 # 🧬 BioSearch
 
